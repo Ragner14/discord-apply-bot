@@ -1,33 +1,33 @@
 {
-  "TOKEN": "التوكن",
+  "TOKEN": "MTMwNzAxNDE5NjM5NDcyNTUyNw.Gp92WF.rLlHndTH_ku0CfGiK_8HLS2SE5vgbg8SzGaoMM",
   "APPLY": {
     "GANGS": {
-      "NAME": "القسم الاول",
-      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "NAME": "STAFF",
+      "BANNER": "https://drive.google.com/file/d/1eh-pt1vHbTE8IZPRB0Ug-CqmDv7ER6Ku/view?usp=drivesdk",
       "DATA": [
         {
-          "name": "تقديم 1",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
+          "name": "STAFF APPLY",
+          "emoji": "🛠️",
+          "CHANNEL": "1307006845940011020",
+          "1262745254550048941": "ايدي_الرتبة"
         },
         {
-          "name": "تقديم 2",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
+          "name": "EVENT APPLY",
+          "emoji": "🎊",
+          "CHANNEL": "1307006845940011020",
+          "1307008829468311573": "ايدي_الرتبة"
         }
       ]
     },
     "GOV": {
-      "NAME": "القسم الثاني",
-      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "NAME": "GIRLS APPLY",
+      "BANNER": "https://drive.google.com/file/d/1quhGjbk3tDaqsK2VCUcjI3FkMk5EvxfI/view?usp=drivesdk",
       "DATA": [
         {
-          "name": "تقديم 1",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
+          "name": "GIRLS APPLY",
+          "emoji": "🎀",
+          "CHANNEL": "1307010402571386890",
+          "1306946810505465956": "ايدي_الرتبة"
         },
         {
           "name": "تقديم 2",
